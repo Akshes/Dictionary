@@ -1,5 +1,6 @@
 # Dictionary
-# <?php = shorthand for <?php echo $a; ?>
+ <?php = shorthand for <?php echo $a; ?>
+ 
 # Declare = used to set execution directives for a block of code.
 # Abstract class = the parent's class declaration must be defined by the child; additionally, these methods must be 
 # defined with the same visibility

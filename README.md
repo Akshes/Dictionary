@@ -1,10 +1,10 @@
 # Dictionary
  <?php = shorthand for <?php echo $a; ?>
  
-# Declare = used to set execution directives for a block of code.
-# Abstract class = the parent's class declaration must be defined by the child; additionally, these methods must be 
-# defined with the same visibility
-# public = class property.
+Declare = used to set execution directives for a block of code.
+Abstract class = the parent's class declaration must be defined by the child; additionally, these methods must be 
+defined with the same visibility
+public = class property.
 # public user = calls user or creates one.
 # int = integers
 # Final Class = which keeps child classes from abrogating a strategy by prefixing the definition with last. On the off 
